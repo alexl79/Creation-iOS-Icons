@@ -1,5 +1,5 @@
 # Creation-iOS-Icons
-Photoshop script for generate all necessary icons for iOS application
+Photoshop script for generate all necessary icons for iOS application (iphone, ipad, iwatch)
 
 
 Фотошоп > Файл > Сценарии > Обзор...
